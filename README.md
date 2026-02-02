@@ -1,3 +1,24 @@
+# webapp (testapp)
+
+This repository contains the React single-page Art Gallery demo (the `testapp` folder).
+
+Quick start
+
+```bash
+cd testapp
+npm install
+npm start
+```
+
+Build for production
+
+```bash
+npm run build
+```
+
+License
+
+This project is licensed under the MIT License — see the `LICENSE` file for details.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
